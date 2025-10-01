@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/fourperps",
   "VITE_SEO_SITE_NAME": "Four Perps",
   "VITE_SEO_SITE_DESCRIPTION": "DEX Four Perps",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/usdog-5502/",
+  "VITE_SEO_SITE_URL": "https://fourperps.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
